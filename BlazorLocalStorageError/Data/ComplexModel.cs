@@ -4,7 +4,7 @@
     {
         public Dictionary<string, List<Dict1Object>> Dict1 { get; set; } = new ComplexModelService().FillDict1();
         public Dictionary<string, List<List<bool>>> Dict2 { get; set; } = new ComplexModelService().FillDict2();
-        //public Dictionary<string, List<List<bool>>> Dict3 { get; set; } = new ComplexModelService().FillDict2();
+        public Dictionary<string, List<List<bool>>> Dict3 { get; set; } = new ComplexModelService().FillDict2();
         //public Dictionary<string, List<List<bool>>> Dict3 { get; set; } = new();
         public List<int> IntList { get; set; } = new List<int>();
         public decimal? Decimal1 { get; set; }
