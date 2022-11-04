@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Repos\\csRepo\\BlazerPractice\\BlazoredLocalStorageErrorExample\\BlazorLocalStorageError\\BlazorLocalStorageError.csproj": {}
+    "F:\\Repos\\clones\\BlazoredLocalStorageErrorExample\\BlazorLocalStorageError\\BlazorLocalStorageError.csproj": {}
   },
   "projects": {
-    "F:\\Repos\\csRepo\\BlazerPractice\\BlazoredLocalStorageErrorExample\\BlazorLocalStorageError\\BlazorLocalStorageError.csproj": {
+    "F:\\Repos\\clones\\BlazoredLocalStorageErrorExample\\BlazorLocalStorageError\\BlazorLocalStorageError.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Repos\\csRepo\\BlazerPractice\\BlazoredLocalStorageErrorExample\\BlazorLocalStorageError\\BlazorLocalStorageError.csproj",
+        "projectUniqueName": "F:\\Repos\\clones\\BlazoredLocalStorageErrorExample\\BlazorLocalStorageError\\BlazorLocalStorageError.csproj",
         "projectName": "BlazorLocalStorageError",
-        "projectPath": "F:\\Repos\\csRepo\\BlazerPractice\\BlazoredLocalStorageErrorExample\\BlazorLocalStorageError\\BlazorLocalStorageError.csproj",
+        "projectPath": "F:\\Repos\\clones\\BlazoredLocalStorageErrorExample\\BlazorLocalStorageError\\BlazorLocalStorageError.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "F:\\Repos\\csRepo\\BlazerPractice\\BlazoredLocalStorageErrorExample\\BlazorLocalStorageError\\obj\\",
+        "outputPath": "F:\\Repos\\clones\\BlazoredLocalStorageErrorExample\\BlazorLocalStorageError\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
